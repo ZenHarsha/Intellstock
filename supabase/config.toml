@@ -1,0 +1,4 @@
+project_id = "wkufndzqihvuizwezgfs"
+
+[functions.portfolio-analysis]
+verify_jwt = false
